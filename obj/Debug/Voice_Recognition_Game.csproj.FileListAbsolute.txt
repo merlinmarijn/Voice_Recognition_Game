@@ -1,0 +1,8 @@
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode2.3\Special Input Output\Voice_Recognition_Game\bin\Debug\Voice_Recognition_Game.exe
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode2.3\Special Input Output\Voice_Recognition_Game\bin\Debug\Voice_Recognition_Game.pdb
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode2.3\Special Input Output\Voice_Recognition_Game\obj\Debug\Voice_Recognition_Game.csprojAssemblyReference.cache
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode2.3\Special Input Output\Voice_Recognition_Game\obj\Debug\Voice_Recognition_Game.Form1.resources
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode2.3\Special Input Output\Voice_Recognition_Game\obj\Debug\Voice_Recognition_Game.Properties.Resources.resources
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode2.3\Special Input Output\Voice_Recognition_Game\obj\Debug\Voice_Recognition_Game.csproj.GenerateResource.cache
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode2.3\Special Input Output\Voice_Recognition_Game\obj\Debug\Voice_Recognition_Game.exe
+C:\Users\marij\OneDrive\Documents\bewijzenmap\periode2.3\Special Input Output\Voice_Recognition_Game\obj\Debug\Voice_Recognition_Game.pdb
